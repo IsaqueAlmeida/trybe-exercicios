@@ -2,7 +2,7 @@ O que vou aprender na Trybe:
 
  - Unix;
  - Bash;
- - Git.
+ - Git;
  - React;
  - NVM;
  - HTML;
