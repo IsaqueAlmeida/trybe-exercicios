@@ -3,13 +3,9 @@ O que vou aprender na Trybe:
  - Unix;
  - Bash;
  - Git.
-
-trybe-skills-updates
-- React;
+ - React;
  - NVM;
  - HTML;
  - CSS;
  - HTML;
  - css;
-
-main
