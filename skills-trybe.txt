@@ -7,5 +7,3 @@ O que vou aprender na Trybe:
  - NVM;
  - HTML;
  - CSS;
- - HTML;
- - css;
