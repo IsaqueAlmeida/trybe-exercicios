@@ -1,4 +1,5 @@
 trybe-skills-updates
+
 ------------------------------------------
 # O que estou aprendendo na Trybe:
 
@@ -10,4 +11,5 @@ trybe-skills-updates
 
 ##### 4 - Para depois entrar parte prática, comandos para levar arquivos até os repositórios do GitHub através de comandos por meio remoto, criação da chave SSH e como utilizá-las. 
 -------------------------------------------------
+
 main
