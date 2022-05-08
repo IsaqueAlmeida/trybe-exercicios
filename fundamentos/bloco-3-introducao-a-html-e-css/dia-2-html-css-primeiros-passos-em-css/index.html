@@ -6,9 +6,36 @@
         <style>
 
            h1{
-               font-size: 65px;
+               font-size: 45px;
                color: orange;
+               font-family: sans-serif;
            } 
+
+           .amarelo{
+               color:goldenrod;
+               font-style: italic;
+               background-color: gold;
+           }
+
+           .vermelho{
+               color:red;
+               font-style: italic;
+               background-color:darkred;
+           }
+
+           .marrom{
+               color:brown;
+               font-style:italic;
+               background-color: burlywood;
+           }
+
+           p{
+               font-weight: 600px;
+               /*font-size: 2em;*/
+               font-size: 20px;
+               font-weight: bold; /*Mudará o estilo das palavras ou o tamanho*/
+               text-decoration: underline; /*Estilo das palavras*/
+           }
 
            ul{
                background-color: rgb(350, 500, 100);
@@ -16,10 +43,12 @@
 
            .cor_fundo{
                background-color: rgba(800, 845, 870, .8);
+               line-height: 30px; /*Espaçamento entre as linhas*/
            }
 
            body{
-               background-color: rgba(300, 700, 100, .8);
+               background-color: rgba(950, 870, 89, .8);
+               font-size: 16px; /*Tamanho das palavras*/
            }
 
         </style>
@@ -30,9 +59,9 @@
         <p class="cor_fundol">Qual é a sua cor favorita?</p>
 
         <ul class="cor_fundo">
-            <li>Amarelo;</li>
-            <li>Vermelho;</li>
-            <li>Marrom.</li>
+            <li class="amarelo">Amarelo;</li>
+            <li class="vermelho">Vermelho;</li>
+            <li class="marrom">Marrom.</li>
         </ul>
     </body>
 </html>
