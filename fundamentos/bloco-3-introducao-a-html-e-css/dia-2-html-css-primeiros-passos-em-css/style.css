@@ -27,6 +27,7 @@ p{
     font-size: 20px;
     font-weight: bold;
     text-decoration: underline;
+    color: rgba(1000, 200, 100, .8)
 }
 
 ul{
