@@ -1,0 +1,44 @@
+h1{
+   font-size: 45px; 
+   color: orange;
+   font-family: cursive;
+}
+
+.amarelo{
+    color:goldenrod;
+    font-style: italic;
+    background-color: gold;
+}
+
+.vermelho{
+    color: red;
+    font-style:italic;
+    background-color: darkred;
+}
+
+.marrom{
+    color: brown;
+    font-size: italic;
+    background-color: burlywood;
+}
+
+p{
+    font-weight: 600px;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: underline;
+    color: rgba(1000, 200, 100, .8)
+}
+
+ul{
+    background-color: rgb(350, 500, 100);
+}
+
+.cor_fundo{
+    background-color: rgba(800, 845, 870, .8);
+    line-height: 30px;
+}
+
+body{
+    background-color: rgba(950, 870, 89, .8);
+}
