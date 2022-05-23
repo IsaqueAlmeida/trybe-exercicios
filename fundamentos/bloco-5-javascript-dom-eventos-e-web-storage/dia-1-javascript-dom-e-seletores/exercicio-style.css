@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+/*.center-content{
+    color: blueviolet;
+    padding: 10px;
+    margin: 5px;
+    border: 5px solid yellowgreen;
+    border-radius: 20px;
+}*/
+
+main, section {
+    border-color: black;
+    border-style: solid;
+  }
+
+  .title {
+    text-align: center;
+  }
+
+  .main-content {
+    background-color: yellow;
+  }
+
+  .main-content .center-content {
+    background-color: red;
+    width: 50%;
+    margin: 0 auto;
+  }
+
+  .main-content .center-content p {
+    font-style: italic;
+  }
