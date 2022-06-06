@@ -124,6 +124,13 @@ body {
   height: 400px;
   border-radius: 5px;
   box-shadow: 5px 5px 5px 0 black;
+  -webkit-transition: -webkit-transform .4s ease;
+  transition: transform .4s ease;
+}
+
+.aside:hover {
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
 }
 
 .aside h3, h4{
