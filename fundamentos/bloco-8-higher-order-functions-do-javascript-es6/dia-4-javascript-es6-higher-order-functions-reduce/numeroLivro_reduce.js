@@ -66,4 +66,6 @@ const numeroLivro = () => {
   const tamanho = books.length;
   const red = books.reduce((soma, book) => soma + (book.releaseYear - book.author.birthYear), 0);
   return red / tamanho;
-};
+}; 
+
+module.exports = numeroLivro;
